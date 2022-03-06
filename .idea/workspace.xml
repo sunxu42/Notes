@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec462b3b-b512-45a6-82fb-17d1295fb756" name="Changes" comment="fix(directory): keep directory name keep consistent">
-      <change afterPath="$PROJECT_DIR$/notes-of-Angular/component.mdX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-of-Angular/lifecycle-hooks.mdX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Notes-for-knowledge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mdLang.md" beforeDir="false" afterPath="$PROJECT_DIR$/mdLang.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note_of_SCSS/configuration.md" beforeDir="false" afterPath="$PROJECT_DIR$/note_of_SCSS/configuration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note_of_python/2022.02.26.md" beforeDir="false" afterPath="$PROJECT_DIR$/note_of_python/2022.02.26.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes-of-Angular/component.mdX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes-of-Angular/lifecycle-hooks.mdX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/private_key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_key.pub" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +64,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cjw" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm install eslint --save-dev" />
+    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,7 +87,10 @@
       <workItem from="1645867989033" duration="720000" />
       <workItem from="1645868727247" duration="1354000" />
       <workItem from="1646224145664" duration="6730000" />
-      <workItem from="1646231693660" duration="1484000" />
+      <workItem from="1646231693660" duration="2465000" />
+      <workItem from="1646237484833" duration="1572000" />
+      <workItem from="1646463758389" duration="364000" />
+      <workItem from="1646464140944" duration="114000" />
     </task>
     <task id="LOCAL-00001" summary="idea config">
       <created>1645886597222</created>
@@ -87,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646224389514</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix(directory): keep directory name keep consistent">
+      <created>1646235032749</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646235032749</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

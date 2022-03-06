@@ -44,6 +44,7 @@ Sass首先根据CSS spec判断文件的编码格式，然后是@charset声明，
 }
 ```
 ## Nested Properties属性嵌套
+
 有些CSS属性遵循相同的命名空间，Sass允许将属性嵌套在命名空间中
 ```scss
 .test {
@@ -55,6 +56,7 @@ Sass首先根据CSS spec判断文件的编码格式，然后是@charset声明，
 }
 ```
 ## Placeholder Selector占位符选择器
+
 Sass支持标准的CSS多行注释`/* */`及单行注释`//`，前者会被完整输出到编译后的CSS文件中，而后者不会
 插值语句也可以在多行注释中使用
 
@@ -197,7 +199,7 @@ p {
 在变量结尾添加 !default 赋予默认值，不能重复使用，不会覆盖已有值
 ``` scss
 $content: '这是 content 的默认值' !default;
-``` 
+```
 null视为没有值，可以用 !default 赋予默认值
 
 # @-Rules and Directives
@@ -211,6 +213,7 @@ Sass 拓展了 @import 的功能，允许其导入 SCSS 或 Sass 文件。
 * 文件名是 url()
 * @import 包含media queries
   
+
 如果不是上述情况，Sass会寻找文件名相同，扩展名为.scss或.sass的文件并将其导入
 
 ### Partials
