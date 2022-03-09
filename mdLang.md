@@ -16,7 +16,6 @@ we can use # for different level title, for example, ## for second title
 
 >为什么叫行内代码
 
-
 这是链接的示例
 
 [Markdown Preview Enhanced （插件文档）](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)
