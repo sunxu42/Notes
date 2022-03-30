@@ -2,78 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec462b3b-b512-45a6-82fb-17d1295fb756" name="Changes" comment="fix(directory): keep directory name keep consistent">
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/component.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/.browserslistrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/.vscode/extensions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/.vscode/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/app-routing.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/app.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/hero.service.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/hero.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/heroes/hero.interface.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/heroes/heroes.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/heroes/heroes.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/heroes/heroes.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/heroes/heroes.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/heroes/mock-heroes.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/qima-switch/qima-switch.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/qima-switch/qima-switch.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/qima-switch/qima-switch.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/app/qima-switch/qima-switch.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/styles.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/angular-tour-of-heroes/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/.browserslistrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/.vscode/extensions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/.vscode/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/app/app-routing.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/app/app.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/styles.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/demo-angular-doc/my-app/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-of-Angular/lifecycle-hooks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes_of_Angular/Components/2. Lifecyle.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes_of_Angular/Components/2. Lifecyle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes_of_Angular/Templates/Text interpolation.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes_of_Angular/Templates/Text interpolation.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cjw" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -151,6 +82,7 @@
       <workItem from="1646463758389" duration="364000" />
       <workItem from="1646464140944" duration="114000" />
       <workItem from="1646659313559" duration="91000" />
+      <workItem from="1647162532228" duration="757000" />
     </task>
     <task id="LOCAL-00001" summary="idea config">
       <created>1645886597222</created>

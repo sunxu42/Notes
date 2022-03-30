@@ -51,5 +51,19 @@ An expression can also refer to properties of the *template's* context such as a
 
 
 
+# Statement context
+
+The statement context may also refer to properties of the ==template's own context==.
+
+In the following example, the `onSave()` takes the template's own `$event` object as an argument. The `deleteHero()` method takes a template input variable, `hero`, and `onSubmit()` takes a template reference variable, `#heroForm`.
+
+```html
+<button type="button" (click)="onSave($event)">Save</button>
+<button type="button" *ngFor="let hero of heroes" (click)="deleteHero(hero)">{{hero.name}}</button>
+<form #heroForm (ngSubmit)="onSubmit(heroForm)"> ... </form>
+```
+
+
+
 
 
