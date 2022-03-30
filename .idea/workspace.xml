@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec462b3b-b512-45a6-82fb-17d1295fb756" name="Changes" comment="idea config">
+    <list default="true" id="ec462b3b-b512-45a6-82fb-17d1295fb756" name="Changes" comment="fix(directory): keep directory name keep consistent">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes_of_Angular/Components/2. Lifecyle.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes_of_Angular/Components/2. Lifecyle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes_of_Angular/Templates/Text interpolation.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes_of_Angular/Templates/Text interpolation.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,12 +12,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sunxu &lt;sunxu42@outlook.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="note_SCSS" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -29,6 +43,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="25Ym6Oq0IpWtDEQUbA2WergR4pK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,11 +55,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="npm install eslint --save-dev" />
+    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6d3bf3ae-6fb3-4f8c-bb28-7a64e955c9ea" name="Changes" comment="" />
+      <changelist id="ec462b3b-b512-45a6-82fb-17d1295fb756" name="Changes" comment="idea config" />
       <created>1645712222121</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -52,6 +76,13 @@
       <workItem from="1645861558893" duration="94000" />
       <workItem from="1645867989033" duration="720000" />
       <workItem from="1645868727247" duration="1354000" />
+      <workItem from="1646224145664" duration="6730000" />
+      <workItem from="1646231693660" duration="2465000" />
+      <workItem from="1646237484833" duration="1572000" />
+      <workItem from="1646463758389" duration="364000" />
+      <workItem from="1646464140944" duration="114000" />
+      <workItem from="1646659313559" duration="91000" />
+      <workItem from="1647162532228" duration="757000" />
     </task>
     <task id="LOCAL-00001" summary="idea config">
       <created>1645886597222</created>
@@ -60,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645886597222</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix(directory): keep directory name keep consistent">
+      <created>1646224389514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646224389514</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix(directory): keep directory name keep consistent">
+      <created>1646235032749</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646235032749</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +135,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="idea config" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea config" />
+    <MESSAGE value="fix(directory): keep directory name keep consistent" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(directory): keep directory name keep consistent" />
   </component>
 </project>
